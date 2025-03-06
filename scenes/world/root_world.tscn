@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://wygqns0bu0wx"]
+
+[ext_resource type="Script" path="res://scripts/world/root_world.gd" id="1_etahl"]
+
+[node name="RootWorld" type="Node2D"]
+script = ExtResource("1_etahl")
